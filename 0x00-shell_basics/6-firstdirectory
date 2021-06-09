@@ -1,3 +1,2 @@
 #!/bin/bash
-tmp_dir=$(mktemp -d -t holbertonXXX --tmpdir=/home/gabor/tmp)
- 
+mkdir /root/tmp/holberton
